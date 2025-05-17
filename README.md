@@ -28,7 +28,5 @@ Reg no 212224040372
 
 # Result
 ![image](https://github.com/user-attachments/assets/149b82fd-a048-43a1-bca7-6bac89c281a4)
-
-
 # Output 
 The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
